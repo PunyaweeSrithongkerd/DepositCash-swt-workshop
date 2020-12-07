@@ -16,4 +16,6 @@ Step
 ```set JAVA_HOME=<Path>```  
 โดย ```Path``` นั้นจะเป็นที่ตั้งของ Java JDK ที่ติดตั้งอยู่ เช่น  
 ```set JAVA_HOME=C:\Program Files\Java\jdk-13.0.2```
+
+6110545571 Punyawee Srithongkerd 
                        
